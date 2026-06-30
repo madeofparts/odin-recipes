@@ -7,5 +7,6 @@ This will demonstrates:
 - usage of strong and emphasized text 
 - usage of links and images
 - healthy usage of commits
+
 In other words, this will fully demonstrate the learnings in the HTML Foundations 
 section, of the curriculum of The Odin Project as of 2026.06.29.
